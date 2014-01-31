@@ -1,0 +1,17 @@
+/*   COLOR SCHEMES AND BACKGROUND IMAGES   */
+body #header h1 a { background:url(../images/logo-light.png) top left no-repeat;}
+body #header-container {background:#919191 url(../images/header-bg-light.png) top left repeat-x;}
+body #header-sub-container {background:url(../images/header-center-bg-light.png) top center no-repeat;}
+body #footer-container {margin-top:15px; border-top:4px solid #c5c5c5; background:#919191 url(../images/header-bg-light.png) top left repeat-x;}
+body #footer-sub-container {background:url(../images/header-center-bg-light.png) top center no-repeat;}
+body a.colored-button {font-weight:700; color:#fff; border:3px solid #d1d1d1; display:inline-block; font-size:14px; text-decoration:none;  padding:8px 20px 7px 20px; background:url(../images/colored-button-light.png) 0px -50px repeat-x;}
+body a.colored-button:hover {color:#fff; background:url(../images/colored-button-light.png) top left repeat-x; border-color:#c2c2c2;}
+body #footer, body #footer-base {color:#525252;}
+body #footer a, body #footer-base a {color:#3a3a3a;}
+body #footer a:hover {color:#525252;}
+body #contact-wrapper-footer p.success {color:#000;}
+body #contact-wrapper-footer, body #contact-wrapper-footer label {color:#525252;}
+body #footer h4 {color:#4e4e4e; border-color:#7f7f7f;}
+body #header-contact, body #header-contact a {color:#4e4e4e;}
+body ul#socialnetworking li, body #footer ul.default li {border-bottom:1px solid #7f7f7f;}
+#footer-background {background:url(../images/header-center-bg-light.png) -730px -74px no-repeat; height:500px; width:500px;}

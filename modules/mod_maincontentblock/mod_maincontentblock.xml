@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5.0" method="upgrade">
+		<name>Module Main Content Block for Vironit-TouchStone Template</name> 
+		<creationDate>4 January 2014</creationDate>
+		<author>Dm. Morozov</author>
+		<authorEmail>castor_troy@tut.by</authorEmail>
+		<authorUrl>http://vk.com/id13245451</authorUrl>
+		<copyright>Copyright Info</copyright>
+		<license>License Info</license>
+        <version>0.0.1</version>
+        <description>Main Content Block for Vironit-TouchStone Template</description>
+		<!-- Обратите внимание на атрибут folder, он указывает из
+				какой директории будут копироваться файлы
+		-->
+        <files>
+			<filename module="mod_maincontentblock">mod_maincontentblock.php</filename>
+			<filename>mod_maincontentblock.xml</filename>
+			<filename>index.html</filename>
+        </files>
+</extension>

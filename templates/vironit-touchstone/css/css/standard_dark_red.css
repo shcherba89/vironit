@@ -1,0 +1,8 @@
+/*   COLOR SCHEMES AND BACKGROUND IMAGES   */
+body #header-container {background:#47383d url(../images/header-bg-dark-red.png) top left repeat-x;}
+body #header-sub-container {background:url(../images/header-center-bg-dark-red.png) top center no-repeat;}
+body #footer-container {margin-top:15px; border-top:4px solid #c5c5c5; background:#47383d url(../images/header-bg-dark-red.png) top left repeat-x;}
+body #footer-sub-container {background:url(../images/header-center-bg-dark-red.png) top center no-repeat;}
+body a.colored-button {font-weight:700; color:#fff; border:3px solid #d1d1d1; display:inline-block; font-size:14px; text-decoration:none;  padding:8px 20px 7px 20px; background:url(../images/colored-button-dark-red.png) top left repeat-x;}
+body a.colored-button:hover {color:#fff; background:url(../images/colored-button-dark-red.png) 0px -50px repeat-x; border-color:#c2c2c2;}
+#footer-background {background:url(../images/header-center-bg-dark-red.png) -730px -74px no-repeat; height:500px; width:500px;}

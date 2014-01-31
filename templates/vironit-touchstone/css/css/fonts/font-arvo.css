@@ -1,0 +1,12 @@
+#navigation-container {font-weight:700; font-family: 'Arvo', arial, serif;}
+.button, #header-contact, .orbit-wrapper, .big-button, .feature-text h5, .feature-box h5, .colored-button, .nivo-caption, .submit-form {font-family: 'Arvo', arial, serif; font-weight:normal;}
+h1, h2, h3, h4, h5, h6 {font-weight:700; font-family: 'Arvo', arial, serif; color:#555; }
+h1 {  font-size:28px; line-height:32px;  margin-bottom:8px;}
+h2 { font-size:20px;  line-height:24px; margin-bottom:4px;}
+h2.blogpost {font-size:24px; line-height:28px; padding-top:5px;}
+h3 { font-size:17px; line-height:22px; margin-bottom:4px;}
+h4 { font-size:16px; line-height:21px;  margin-bottom:2px;}
+h5 {font-size:15px; line-height:19px;}
+h6 {font-size:14px; line-height:26px;}
+.sf-menu a {font-size:12px; }
+.orbit-wrapper h2, .nivo-caption h2, .orbit-wrapper .title {font-size:27px;}

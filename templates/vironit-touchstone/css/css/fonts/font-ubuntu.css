@@ -1,0 +1,10 @@
+#navigation-container {font-weight:700; font-family: 'Ubuntu', arial, serif;}
+.button, #header-contact, .orbit-wrapper, .big-button, .feature-text h5, .feature-box h5, .colored-button, .nivo-caption, .submit-form {font-family: 'Ubuntu', arial, serif; font-weight:normal;}
+h1, h2, h3, h4, h5, h6 {font-weight:700; font-family: 'Ubuntu', arial, serif; color:#555; }
+h1 {  font-size:28px; line-height:32px;  margin-bottom:8px;}
+h2 { font-size:20px;  line-height:24px; margin-bottom:4px;}
+h2.blogpost {font-size:25px; line-height:28px; padding-top:5px;}
+h3 { font-size:18px; line-height:22px; margin-bottom:4px;}
+h4 { font-size:17px; line-height:21px;  margin-bottom:2px;}
+h5 {font-size:15px; line-height:19px;}
+h6 {font-size:13px; line-height:26px;}

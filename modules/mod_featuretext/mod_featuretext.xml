@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5.0" method="upgrade">
+		<name>Module Feature Text for Vironit-TouchStone Template</name> 
+		<creationDate>18 December 2013</creationDate>
+		<author>Dm. Morozov</author>
+		<authorEmail>castor_troy@tut.by</authorEmail>
+		<authorUrl>http://vk.com/id13245451</authorUrl>
+		<copyright>Copyright Info</copyright>
+		<license>License Info</license>
+        <version>0.0.1</version>
+        <description>Feature Text for Vironit-TouchStone Template</description>
+
+		<!-- Обратите внимание на атрибут folder, он указывает из
+				 какой директории будут копироваться файлы  -->
+        <files>
+			<filename module="mod_featuretext">mod_featuretext.php</filename>
+			<filename>mod_featuretext.xml</filename>
+			<filename>index.html</filename>
+        </files>
+</extension>

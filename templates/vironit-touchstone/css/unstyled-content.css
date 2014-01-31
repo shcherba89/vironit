@@ -1,0 +1,2 @@
+#featured {  width: 960px; height: 350px; background: #000 url('images/orbit/loading.gif') no-repeat center center; overflow: hidden; }
+#featured img,  #featured div { display: none; }

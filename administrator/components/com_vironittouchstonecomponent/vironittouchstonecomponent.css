@@ -1,0 +1,278 @@
+
+.sym {
+    margin: 0 0 0 8px;
+    float: left;
+}
+
+.cl {
+    clear: both;
+}
+
+.left {
+    float: left;
+}
+
+.description {
+    max-width: 1200px;
+    width: 1200px;
+    max-height: 300px;
+    height: 300px;
+}
+
+.left-margin {
+    margin: 0 0 0 15px;
+}
+
+.margin {
+    margin: 15px;
+}
+
+.margin-up {
+    margin: 15px 0 0 0px;
+}
+
+.margin-down {
+    margin: 0 0 15px 0px;
+}
+
+.first-block {
+    padding: 10px 0 5px 25px;
+    margin: 10px 0 0 15px;
+    border: 1px solid #ACBEC1;
+    min-width: 200px;
+    min-height: 100px;
+
+}
+
+.second-block {
+    margin: 10px 0 0 15px;
+    padding: 0 0 0 25px;
+    border: 1px solid #ACBEC1;
+    min-width: 300px;
+    width: 300px;
+    min-height: 300px;
+}
+
+.pad {
+    padding: 5px 5px 5px 45px;
+}
+
+.third-block {
+    padding: 5px 5px 5px 25px;
+    border: 1px solid #ACBEC1;
+
+}
+
+.right {
+    float: right;
+}
+
+.second-submit {
+    float: left;
+    margin: 10px 0 0 5px;
+}
+
+.addCategoryForm {
+    margin: 10px 0 0 10px;
+    padding: 5px 5px 5px 5px;
+    float: left;
+    border: 1px solid #ACBEC1;
+}
+
+.padding {
+    padding: 5px 5px 5px 5px;
+}
+
+.fourth-block {
+    padding: 0 0 0 10px;
+    border: 1px solid #ACBEC1;
+    min-width: 180px;
+    min-height: 100px;
+}
+
+.margin-left {
+    margin: 0 0 0 60px;
+}
+
+.row {
+    min-height: 20px;
+    padding: 0 5px 0 0;
+}
+
+.delete-form {
+    width: 60px;
+    height: 20px;
+}
+
+.zero-block {
+    margin: 10px 0 0 10px;
+    padding: 0px 0 5px 10px;
+    border: 1px solid #ACBEC1;
+    min-width: 100px;
+    min-height: 100px;
+}
+
+.addPageForm {
+    margin: 10px 0 0 15px;
+    padding: 0px 5px 0px 5px;
+    float: left;
+    border: 1px solid #ACBEC1;
+}
+
+.div-button {
+    margin: 5px 0;
+}
+
+.margin-vert {
+    margin: 10px 0;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+.inactive-order-arrow-up {
+    background-color: tomato;
+
+}
+
+.active-order-arrow-up {
+    background-color: #00FF00;
+
+}
+
+.inactive-order-arrow-down {
+    background-color: tomato;
+
+}
+
+.active-order-arrow-down {
+    background-color: #00FF00;
+
+}
+
+.inactive-button-remove {
+    background-color: tomato;
+
+}
+
+.active-button-remove {
+    background-color: #00FF00;
+
+}
+
+.inactive-button-add {
+    background-color: tomato;
+
+}
+
+.active-button-add {
+    background-color: #00FF00;
+
+}
+
+.paw {
+    cursor: pointer;
+}
+
+.button-vironit {
+    border: 1px solid grey;
+    padding: 4px 7px 0 5px;
+}
+
+.button-add {
+    margin: 0 0 0 737px;
+}
+
+.button-remove {
+    margin: 0 0 10px 10px;
+}
+
+#leftMenuBlock {
+    margin: 20px 0 0 0;
+}
+
+#leftMenuBlockTextarea {
+    width: 400px;
+    height: 150px;
+    max-width: 500px;
+    max-height: 250px;
+}
+
+#leftMenuTextEntityTextarea {
+    height: 255px;
+    width: 735px;
+    max-height: 300px;
+    max-width: 800px;
+}
+
+.red {
+    color: red;
+}
+
+#delete-category {
+    padding: 70px 20px 35px 15px;
+}
+
+.block200 {
+    min-width: 200px;
+    max-width: 215px;
+}
+
+.remove-checked-categories {
+    margin: 10px 0 0 10px;
+    background-color: tomato;
+    font-weight: bold;
+}
+
+.remove-category {
+    background-color: tomato;
+    font-weight: bold;
+}
+
+
+.save-checked-categories {
+   margin: 10px 0 0 10px;
+}
+
+
+.block300 {
+    min-width: 300px;
+    max-width: 350px;
+}
+
+.generated-link {
+    margin: 0 0 0 45px;
+}
+
+.generated-link2 {
+    margin: 0 0 0 70px;
+}
+
+.menu_name_input {
+    min-width: 350px;
+    max-width: 400px;
+}
+
+.menu_link_input {
+    min-width: 250px;
+    max-width: 200px;
+}
+
+.width-250 {
+    width: 250px;
+}
+
+.icon-48-vironit {
+    background: url('./icon-48-vironit.png');
+}
+
+.display-none {
+    display: none;
+}
+
+.delete-checked-div {
+    margin: -35px 0px 0 75px;
+    
+}
+

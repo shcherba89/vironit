@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="2.5.0" method="upgrade">
+	<name>Vironit Touchstone Component</name>
+	<creationDate>27 December 2013</creationDate>
+	<author>Dm Morozov</author>
+	<authorEmail>castor_troy@tut.by</authorEmail>
+	<authorUrl>http://vk.com/xdoctordog</authorUrl>
+	<copyright>Copyright Info</copyright>
+	<license>License Info</license>
+	<version>0.0.0.1</version>
+	<description>Description of the Vironit Touchstone Component S3 v.0.0.0.1 component ...</description>
+ 	<update>
+		<schemas>
+			<schemapath type="mysql">sql/updates/mysql</schemapath>
+		</schemas>
+	</update>
+	<files folder="site">
+		<filename>index.html</filename>
+				<filename>controller.php</filename>
+		<filename>vironittouchstonecomponent.php</filename>
+				<folder>views</folder>
+	</files>
+	<administration>
+		<menu>vironittouchstonecomponent</menu>
+		<files folder="admin">
+			<!-- Admin Main File Copy Section -->
+			<filename>index.html</filename>
+			<filename>vironittouchstonecomponent.php</filename>
+			<folder>sql</folder>
+									<filename>controller.php</filename>
+			<folder>models</folder>
+
+									<folder>views</folder>
+			<filename>vironittouchstonecomponent.css</filename>
+		</files>
+	</administration>
+</extension>

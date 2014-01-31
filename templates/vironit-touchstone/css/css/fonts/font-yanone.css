@@ -1,0 +1,11 @@
+#navigation-container {font-weight:700; font-family: 'Yanone Kaffeesatz', arial, serif;}
+.button, #header-contact, .orbit-wrapper, .big-button, .feature-text h5, .feature-box h5, .colored-button, .nivo-caption, .submit-form {font-family: 'Yanone Kaffeesatz', arial, serif; font-weight:normal;}
+h1, h2, h3, h4, h5, h6 {font-weight:700; font-family: 'Yanone Kaffeesatz', arial, serif; color:#555; }
+h1 {  font-size:35px; line-height:36px;  margin-bottom:8px;}
+h2 { font-size:28px;  line-height:33px; margin-bottom:4px;}
+h2.blogpost {font-size:28px; line-height:31px; padding-top:5px;}
+h3 { font-size:23px; line-height:25px; margin-bottom:4px;}
+h4 { font-size:20px; line-height:22px;  margin-bottom:2px;}
+h5 {font-size:18px; line-height:19px;}
+h6 {font-size:16px; line-height:24px;}
+.sf-menu a {font-size:16px;  padding-top:12px; padding-bottom:9px;}
